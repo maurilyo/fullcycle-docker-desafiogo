@@ -1,1 +1,1 @@
-imagem go: docker push maurilyo/codeeducation:latest
+imagem go: docker run maurilyo/codeeducation:latest
